@@ -1,4 +1,4 @@
-# LinuxMail 📬
+# LinuxMail 
 
 A simple terminal email client for Linux using IMAP + SMTP.
 
