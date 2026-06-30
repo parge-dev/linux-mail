@@ -8,6 +8,11 @@ A simple terminal email client for Linux using IMAP + SMTP.
 - Supports Gmail and custom providers
 - CLI-based lightweight mail tool
 
+## requirements
+- a email
+- a app password
+- python
+
 ## Install
 
 ```bash
