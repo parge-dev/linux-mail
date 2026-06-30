@@ -8,7 +8,7 @@ A simple terminal email client for Linux using IMAP + SMTP.
 - Supports Gmail and custom providers
 - CLI-based lightweight mail tool
 
-## requirements
+## Requirements
 - a email
 - a app password
 - python
